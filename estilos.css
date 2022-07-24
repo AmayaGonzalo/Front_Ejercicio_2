@@ -1,0 +1,57 @@
+body {
+  background-color: grey;
+}
+
+#contenedor {
+  background-color: lightcoral;
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+  margin: 0px;
+  padding: 15px;
+  border: solid blue;
+}
+
+#encabezado {
+  background-color: seagreen;
+  margin: 0 auto;
+  padding: 25px;
+  border: solid red;
+  width: 98%;
+}
+
+.hijo {
+  background-color: orange;
+  margin: 5px;
+  padding: 25px;
+  border: solid black;
+  height: 400px;
+  width: 40%;
+}
+
+#hijoDos {
+  background-color: lightgreen;
+  margin: 5px;
+  padding: 25px;
+  border: solid black;
+  height: 200px;
+  width: 20%;
+}
+
+#hijoTres {
+  background-color: lightblue;
+  margin: 5px;
+  padding: 25px;
+  border: solid black;
+  height: 200px;
+  width: 30%;
+}
+
+#pie {
+  background-color: yellow;
+  margin: 5px;
+  padding: 15px;
+  border: solid black;
+  height: 50px;
+  width: 98%;
+}
