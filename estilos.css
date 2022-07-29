@@ -21,7 +21,7 @@ body {
   width: 98%;
 }
 
-#hijos {
+#cuerpo {
   display: flex;
   justify-content: center;
   flex-direction: row;
